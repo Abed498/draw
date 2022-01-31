@@ -7,6 +7,7 @@ Argentina
 Belgium
 Italy
 France
+
 Spain
 Netherlands
 Germany
@@ -15,6 +16,7 @@ Colombia
 Uruguay
 Senegal
 Iran
+
 Chile
 Japan
 Morocco
@@ -23,6 +25,7 @@ South Korea
 Australia
 Paraguay
 Egypt
+
 Saudi Arabia
 Ghana
 Nigeria
