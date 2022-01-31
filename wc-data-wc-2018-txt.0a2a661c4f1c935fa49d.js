@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdraw=self.webpackChunkdraw||[]).push([[7413],{18688:n=>{n.exports="Qatar\n\nEngland\nBrazil\nPortugal\nArgentina\nBelgium\nItaly\nFrance\nSpain\nNetherlands\nGermany\nMexico\nColombia\nUruguay\nSenegal\nIran\nChile\nJapan\nMorocco\nAlgeria\nSouth Korea\nAustralia\nParaguay\nEgypt\nSaudi Arabia\nGhana\nNigeria\nMali\nIvory \nUAE\nIraq\nUSA"}}]);
