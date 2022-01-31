@@ -9,7 +9,6 @@ Man United
 Man City
 Chelsea
 Leicester
-Tottenham
 
 Bayern
 Dortmund
@@ -25,6 +24,7 @@ Napoli
 Paris
 Lille
 Lyon
+Monaco
 
 Sporting CP
 Porto

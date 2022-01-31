@@ -7,16 +7,16 @@
       "coefficient": 98
     },
     {
-      "name": "Villarreal",
+      "name": "Real Madrid",
       "country": "Spain",
-      "bertName": "Villarreal",
-      "coefficient": 63
+      "bertName": "Real Madrid",
+      "coefficient": 127
     },
     {
-      "name": "Atlético",
-      "country": "Spain",
-      "bertName": "Atlético Madrid",
-      "coefficient": 115
+      "name": "Juventus",
+      "country": "Italy",
+      "bertName": "Juventus",
+      "coefficient": 120
     },
     {
       "name": "Man City",
@@ -31,80 +31,10 @@
       "coefficient": 134
     },
     {
-      "name": "Internazionale",
-      "country": "Italy",
-      "bertName": "Internazionale",
-      "coefficient": 53
-    },
-    {
-      "name": "Lille",
-      "country": "France",
-      "bertName": "Lille OSC",
-      "coefficient": 14
-    },
-    {
-      "name": "Sporting CP",
-      "country": "Portugal",
-      "bertName": "Sporting CP Lisbon",
-      "coefficient": 45.5
-    }
-  ],
-  [
-    {
-      "name": "Real Madrid",
-      "country": "Spain",
-      "bertName": "Real Madrid",
-      "coefficient": 127
-    },
-    {
-      "name": "Barcelona",
-      "country": "Spain",
-      "bertName": "FC Barcelona",
-      "coefficient": 122
-    },
-    {
-      "name": "Juventus",
-      "country": "Italy",
-      "bertName": "Juventus",
-      "coefficient": 120
-    },
-    {
-      "name": "Man United",
-      "country": "England",
-      "bertName": "Manchester United",
-      "coefficient": 113
-    },
-    {
       "name": "Paris",
       "country": "France",
       "bertName": "Paris Saint-Germain",
       "coefficient": 113
-    },
-    {
-      "name": "Liverpool",
-      "country": "England",
-      "bertName": "Liverpool",
-      "coefficient": 101
-    },
-    {
-      "name": "Sevilla",
-      "country": "Spain",
-      "bertName": "Sevilla",
-      "coefficient": 98
-    },
-    {
-      "name": "Dortmund",
-      "country": "Germany",
-      "bertName": "Borussia Dortmund",
-      "coefficient": 90
-    }
-  ],
-  [
-    {
-      "name": "Porto",
-      "country": "Portugal",
-      "bertName": "FC Porto",
-      "coefficient": 87
     },
     {
       "name": "Ajax",
@@ -113,10 +43,24 @@
       "coefficient": 82.5
     },
     {
-      "name": "Shakhtar",
-      "country": "Ukraine",
-      "bertName": "Shakhtar Donetsk",
-      "coefficient": 79
+      "name": "Porto",
+      "country": "Portugal",
+      "bertName": "FC Porto",
+      "coefficient": 87
+    }
+  ],
+  [
+    {
+      "name": "Benfica",
+      "country": "Portugal",
+      "bertName": "Benfica",
+      "coefficient": 58
+    },
+    {
+      "name": "Barcelona",
+      "country": "Spain",
+      "bertName": "FC Barcelona",
+      "coefficient": 122
     },
     {
       "name": "Leipzig",
@@ -125,28 +69,84 @@
       "coefficient": 66
     },
     {
-      "name": "Salzburg",
-      "country": "Austria",
-      "bertName": "FC Salzburg",
-      "coefficient": 59
+      "name": "Liverpool",
+      "country": "England",
+      "bertName": "Liverpool",
+      "coefficient": 101
     },
     {
-      "name": "Benfica",
-      "country": "Portugal",
-      "bertName": "Benfica",
-      "coefficient": 58
+      "name": "Lille",
+      "country": "France",
+      "bertName": "Lille OSC",
+      "coefficient": 14
+    },
+    {
+      "name": "Internazionale",
+      "country": "Italy",
+      "bertName": "Internazionale",
+      "coefficient": 53
+    },
+    {
+      "name": "Atlético",
+      "country": "Spain",
+      "bertName": "Atlético Madrid",
+      "coefficient": 115
     },
     {
       "name": "Atalanta",
       "country": "Italy",
       "bertName": "Atalanta",
       "coefficient": 50.5
+    }
+  ],
+  [
+    {
+      "name": "Dortmund",
+      "country": "Germany",
+      "bertName": "Borussia Dortmund",
+      "coefficient": 90
     },
     {
-      "name": "Tottenham",
+      "name": "Milan",
+      "country": "Italy",
+      "bertName": "AC Milan",
+      "coefficient": 31
+    },
+    {
+      "name": "Sevilla",
+      "country": "Spain",
+      "bertName": "Sevilla",
+      "coefficient": 98
+    },
+    {
+      "name": "Lyon",
+      "country": "France",
+      "bertName": "Lyon",
+      "coefficient": 14.5
+    },
+    {
+      "name": "Shakhtar",
+      "country": "Ukraine",
+      "bertName": "Shakhtar Donetsk",
+      "coefficient": 79
+    },
+    {
+      "name": "Man United",
       "country": "England",
-      "bertName": "Tottenham Hotspurs",
-      "coefficient": 50
+      "bertName": "Manchester United",
+      "coefficient": 113
+    },
+    {
+      "name": "Sporting CP",
+      "country": "Portugal",
+      "bertName": "Sporting CP Lisbon",
+      "coefficient": 45.5
+    },
+    {
+      "name": "Villarreal",
+      "country": "Spain",
+      "bertName": "Villarreal",
+      "coefficient": 63
     }
   ],
   [
@@ -175,16 +175,16 @@
       "coefficient": 35
     },
     {
-      "name": "Milan",
-      "country": "Italy",
-      "bertName": "AC Milan",
-      "coefficient": 31
-    },
-    {
       "name": "Napoli",
       "country": "Italy",
       "bertName": "Napoli",
       "coefficient": 18.5
+    },
+    {
+      "name": "Salzburg",
+      "country": "Austria",
+      "bertName": "FC Salzburg",
+      "coefficient": 59
     },
     {
       "name": "Leicester",
@@ -193,10 +193,10 @@
       "coefficient": 14.714
     },
     {
-      "name": "Lyon",
+      "name": "Monaco",
       "country": "France",
-      "bertName": "Lyon",
-      "coefficient": 14.5
+      "bertName": "AS Monaco",
+      "coefficient": 50
     }
   ]
 ]
