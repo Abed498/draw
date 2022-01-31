@@ -287,8 +287,8 @@ export default {
     flag: 'ar',
     confederation: 'CONMEBOL',
   },
-  Peru: {
-    flag: 'pe',
+   Paraguay: {
+    flag: 'py',
     confederation: 'CONMEBOL',
   },
   Colombia: {
@@ -300,12 +300,12 @@ export default {
     flag: 'mx',
     confederation: 'CONCACAF',
   },
-  'Costa Rica': {
-    flag: 'cr',
+  'USA': {
+    flag: 'us',
     confederation: 'CONCACAF',
   },
-  Panama: {
-    flag: 'pa',
+   Chile: {
+    flag: 'ch',
     confederation: 'CONCACAF',
   },
 
@@ -328,7 +328,23 @@ export default {
   Morocco: {
     flag: 'ma',
     confederation: 'CAF',
-  },
+    },
+    Algeria: {
+        flag: 'ag',
+        confederation: 'CAF',
+    },
+    Ghana: {
+        flag: 'gh',
+        confederation: 'CAF',
+    },
+    Ivory: {
+        flag: 'ic',
+        confederation: 'CAF',
+    },
+    Mali: {
+        flag: 'ma',
+        confederation: 'CAF',
+    },
 
   Iran: {
     flag: 'ir',
@@ -351,8 +367,13 @@ export default {
     confederation: 'AFC',
   },
 
-  'New Zealand': {
-    flag: 'nz',
+  'Qatar': {
+    flag: 'qt',
     confederation: 'OFC',
-  },
+    },
+  
+  'UAE': {
+    flag: 'ue',
+    confederation: 'OFC',
+    },
 } as const
