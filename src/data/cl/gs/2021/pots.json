@@ -143,9 +143,9 @@
       "coefficient": 50.5
     },
     {
-      "name": "Zenit",
-      "country": "Russia",
-      "bertName": "Zenit St. Petersburg",
+      "name": "Tottenham",
+      "country": "England",
+      "bertName": "Tottenham Hotspurs",
       "coefficient": 50
     }
   ],
@@ -157,9 +157,9 @@
       "coefficient": 49
     },
     {
-      "name": "Dynamo",
-      "country": "Ukraine",
-      "bertName": "Dinamo Kiev",
+      "name": "Basel",
+      "country": "Switzerland",
+      "bertName": "Basel",
       "coefficient": 47
     },
     {
@@ -169,9 +169,9 @@
       "coefficient": 35.5
     },
     {
-      "name": "Young Boys",
-      "country": "Switzerland",
-      "bertName": "Young Boys",
+      "name": "CSKA",
+      "country": "Russia",
+      "bertName": "CSKA Moscow",
       "coefficient": 35
     },
     {
@@ -181,21 +181,21 @@
       "coefficient": 31
     },
     {
-      "name": "Malmö",
-      "country": "Sweden",
-      "bertName": "Malmö FF",
+      "name": "Napoli",
+      "country": "Italy",
+      "bertName": "Napoli",
       "coefficient": 18.5
     },
     {
-      "name": "Wolfsburg",
-      "country": "Germany",
-      "bertName": "VfL Wolfsburg",
+      "name": "Leicester",
+      "country": "England",
+      "bertName": "Leicester City",
       "coefficient": 14.714
     },
     {
-      "name": "Sheriff",
-      "country": "Moldova",
-      "bertName": "Sheriff Tiraspol",
+      "name": "Lyon",
+      "country": "France",
+      "bertName": "Lyon",
       "coefficient": 14.5
     }
   ]
